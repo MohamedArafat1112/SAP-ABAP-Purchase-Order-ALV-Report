@@ -1,7 +1,7 @@
 
-*& Report ZMA_ABAP_REVISION
+*& Report ZMA_alv_report
 
-REPORT zma_abap_revision.
+REPORT zma_alv_report.
 
 
 
